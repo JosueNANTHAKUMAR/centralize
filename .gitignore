@@ -2,3 +2,4 @@ __pycache__
 .vscode
 delete.sh
 *.txt
+.env
